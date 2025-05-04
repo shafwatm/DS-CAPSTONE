@@ -1,1 +1,1 @@
-XG Boost Prediction Model for Crime in Chicago
+XG Boost Prediction Model for Crime Patterns in Chicago
